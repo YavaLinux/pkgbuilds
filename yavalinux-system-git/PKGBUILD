@@ -1,7 +1,7 @@
 # Maintainer: Hamed Mahmoudkhani <ainyava@gmail.com>
 pkgname=yavalinux-system-git
 _destname1="/etc/"
-_destname1="/usr/"
+_destname2="/usr/"
 pkgver=1.0.0
 pkgrel=1
 epoch=
