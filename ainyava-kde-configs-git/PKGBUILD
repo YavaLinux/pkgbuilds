@@ -1,5 +1,5 @@
 # Maintainer: Hamed Mahmoudkhani <ainyava@gmail.com>
-pkgname=ainyava-plasma-configs-git
+pkgname=ainyava-kde-configs-git
 _destname1="/etc/skel/.config/"
 _destname2="/etc/sddm.conf.d/"
 _destname3="/etc/xdg/"
@@ -8,7 +8,7 @@ pkgrel=1
 epoch=
 pkgdesc="Yavalinux KDE plasma configurations"
 arch=('any')
-url="https://github.com/yavalinux/ainyava-plasma-configs"
+url="https://github.com/yavalinux/ainyava-kde-configs"
 license=('GPL3')
 groups=()
 depends=()
