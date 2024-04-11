@@ -10,6 +10,6 @@ do
     echo "Building the package $pkg"
     cd $pkg
     yes | makepkg -s
-    cp *.pkg.tar.zst ../../yavalinux-repo/x86_64/ $1
+    cp *.pkg.tar.zst ../../archrepo/x86_64/ $1
     cd ..
 done
