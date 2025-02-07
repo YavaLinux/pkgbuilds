@@ -28,3 +28,6 @@
 [submodule "AUR/oh-my-zsh-git"]
 	path = AUR/oh-my-zsh-git
 	url = https://aur.archlinux.org/oh-my-zsh-git.git
+[submodule "AUR/nvm"]
+	path = AUR/nvm
+	url = https://aur.archlinux.org/nvm.git
