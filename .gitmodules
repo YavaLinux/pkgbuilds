@@ -22,3 +22,6 @@
 [submodule "AUR/sublime-text-4"]
 	path = AUR/sublime-text-4
 	url = https://aur.archlinux.org/sublime-text-4.git
+[submodule "AUR/kwin-scripts-krohnkite-git"]
+	path = AUR/kwin-scripts-krohnkite-git
+	url = https://aur.archlinux.org/kwin-scripts-krohnkite-git.git
