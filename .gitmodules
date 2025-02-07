@@ -4,27 +4,12 @@
 [submodule "AUR/nekoray"]
 	path = AUR/nekoray
 	url = https://aur.archlinux.org/nekoray.git
-[submodule "AUR/nvm"]
-	path = AUR/nvm
-	url = https://aur.archlinux.org/nvm.git
-[submodule "AUR/oh-my-zsh-git"]
-	path = AUR/oh-my-zsh-git
-	url = https://aur.archlinux.org/oh-my-zsh-git.git
-[submodule "AUR/plasma6-applets-window-buttons"]
-	path = AUR/plasma6-applets-window-buttons
-	url = https://aur.archlinux.org/plasma6-applets-window-buttons.git
-[submodule "AUR/plasma6-applets-window-title"]
-	path = AUR/plasma6-applets-window-title
-	url = https://aur.archlinux.org/plasma6-applets-window-title.git
 [submodule "AUR/sing-geoip"]
 	path = AUR/sing-geoip
 	url = https://aur.archlinux.org/sing-geoip.git
 [submodule "AUR/sing-geosite"]
 	path = AUR/sing-geosite
 	url = https://aur.archlinux.org/sing-geosite.git
-[submodule "AUR/systemd-kcm"]
-	path = AUR/systemd-kcm
-	url = https://aur.archlinux.org/systemd-kcm.git
 [submodule "AUR/visual-studio-code-bin"]
 	path = AUR/visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin.git
@@ -33,13 +18,7 @@
 	url = https://aur.archlinux.org/calamares.git
 [submodule "AUR/kwin-decoration-sierra-breeze-enhanced-git"]
 	path = AUR/kwin-decoration-sierra-breeze-enhanced-git
-	url = https://aur.archlinux.org/kwin-decoration-sierra-breeze-enhanced-git.git
-[submodule "AUR/latte-dock"]
-	path = AUR/latte-dock
-	url = https://aur.archlinux.org/latte-dock.git
-[submodule "AUR/kwin-effects-yet-another-magic-lamp-git"]
-	path = AUR/kwin-effects-yet-another-magic-lamp-git
-	url = https://aur.archlinux.org/kwin-effects-yet-another-magic-lamp-git.git
+  url = https://aur.archlinux.org/kwin-decoration-sierra-breeze-enhanced-git.git
 [submodule "AUR/sublime-text-4"]
 	path = AUR/sublime-text-4
 	url = https://aur.archlinux.org/sublime-text-4.git
