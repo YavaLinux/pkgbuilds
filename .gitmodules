@@ -25,3 +25,6 @@
 [submodule "AUR/kwin-scripts-krohnkite-git"]
 	path = AUR/kwin-scripts-krohnkite-git
 	url = https://aur.archlinux.org/kwin-scripts-krohnkite-git.git
+[submodule "AUR/oh-my-zsh-git"]
+	path = AUR/oh-my-zsh-git
+	url = https://aur.archlinux.org/oh-my-zsh-git.git
