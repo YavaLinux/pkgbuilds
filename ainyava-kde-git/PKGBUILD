@@ -1,6 +1,6 @@
 # Maintainer: Hamed Mahmoudkhani <ainyava@gmail.com>
 pkgname=ainyava-kde-git
-pkgver=1.0.0
+pkgver=1.1.0
 pkgrel=1
 epoch=
 pkgdesc="Ainyava theme for KDE Plasma 5"
@@ -12,9 +12,9 @@ depends=()
 makedepends=('git')
 checkdepends=()
 optdepends=(
-	'konsole: for konsole theme'
-	'kvantum: for kvantum theme (recommended)'
-	'plasma-desktop: for plasma desktop theme'
+  'konsole: for konsole theme'
+  'kvantum: for kvantum theme (recommended)'
+  'plasma-desktop: for plasma desktop theme'
 )
 provides=("$pkgname=$pkgver")
 conflicts=("$pkgname")
@@ -29,10 +29,10 @@ sha256sums=('SKIP')
 validpgpkeys=()
 
 prepare() {
-	cd "$pkgname"
+  cd "$pkgname"
 }
 
 package() {
-	cd "$pkgname"
-	make DESTDIR="$pkgdir/" install
+  cd "$pkgname"
+  make DESTDIR="$pkgdir/" install
 }
