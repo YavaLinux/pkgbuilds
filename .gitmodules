@@ -31,3 +31,6 @@
 [submodule "AUR/nvm"]
 	path = AUR/nvm
 	url = https://aur.archlinux.org/nvm.git
+[submodule "AUR/plasma6-applets-window-title"]
+	path = AUR/plasma6-applets-window-title
+	url = https://aur.archlinux.org/plasma6-applets-window-title.git
