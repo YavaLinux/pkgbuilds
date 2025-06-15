@@ -1,0 +1,10 @@
+name: yavalinux_pkgbuild
+services:
+  build_packages:
+    build: .
+    deploy:
+      mode: global-job
+    volumes:
+      - ./:/yavalinux
+    entrypoint: sleep infinity
+    # entrypoint: /yavalinux/build.sh

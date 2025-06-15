@@ -4,7 +4,6 @@ _destname1="/etc/skel/.config/"
 _destname2="/etc/skel/.local/"
 _destname3="/etc/sddm.conf.d/"
 _destname4="/etc/xdg/"
-_destname5='/usr'
 pkgver=1.1.1
 pkgrel=1
 epoch=
@@ -41,7 +40,4 @@ package() {
 
   install -dm755 ${pkgdir}${_destname4}
   cp -r ${srcdir}/${pkgname}${_destname4}* ${pkgdir}${_destname4}
-
-  install -dm755 ${pkgdir}${_destname5}
-  cp -r ${srcdir}/${pkgname}${_destname5}* ${pkgdir}${_destname5}
 }
