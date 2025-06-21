@@ -1,36 +1,15 @@
 [submodule "AUR/google-chrome"]
 	path = AUR/google-chrome
 	url = https://aur.archlinux.org/google-chrome.git
-[submodule "AUR/nekoray"]
-	path = AUR/nekoray
-	url = https://aur.archlinux.org/nekoray.git
-[submodule "AUR/sing-geoip"]
-	path = AUR/sing-geoip
-	url = https://aur.archlinux.org/sing-geoip.git
-[submodule "AUR/sing-geosite"]
-	path = AUR/sing-geosite
-	url = https://aur.archlinux.org/sing-geosite.git
 [submodule "AUR/visual-studio-code-bin"]
 	path = AUR/visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin.git
 [submodule "AUR/calamares"]
 	path = AUR/calamares
 	url = https://aur.archlinux.org/calamares.git
-[submodule "AUR/kwin-decoration-sierra-breeze-enhanced-git"]
-	path = AUR/kwin-decoration-sierra-breeze-enhanced-git
-  url = https://aur.archlinux.org/kwin-decoration-sierra-breeze-enhanced-git.git
 [submodule "AUR/sublime-text-4"]
 	path = AUR/sublime-text-4
 	url = https://aur.archlinux.org/sublime-text-4.git
-[submodule "AUR/kwin-scripts-krohnkite-git"]
-	path = AUR/kwin-scripts-krohnkite-git
-	url = https://aur.archlinux.org/kwin-scripts-krohnkite-git.git
-[submodule "AUR/oh-my-zsh-git"]
-	path = AUR/oh-my-zsh-git
-	url = https://aur.archlinux.org/oh-my-zsh-git.git
 [submodule "AUR/nvm"]
 	path = AUR/nvm
 	url = https://aur.archlinux.org/nvm.git
-[submodule "AUR/plasma6-applets-window-title"]
-	path = AUR/plasma6-applets-window-title
-	url = https://aur.archlinux.org/plasma6-applets-window-title.git
