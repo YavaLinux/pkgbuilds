@@ -4,12 +4,12 @@
 [submodule "AUR/visual-studio-code-bin"]
 	path = AUR/visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin.git
-[submodule "AUR/calamares"]
-	path = AUR/calamares
-	url = https://aur.archlinux.org/calamares.git
 [submodule "AUR/sublime-text-4"]
 	path = AUR/sublime-text-4
 	url = https://aur.archlinux.org/sublime-text-4.git
 [submodule "AUR/nvm"]
 	path = AUR/nvm
 	url = https://aur.archlinux.org/nvm.git
+[submodule "calamares-git"]
+	path = AUR/calamares-git
+	url = https://aur.archlinux.org/calamares-git.git

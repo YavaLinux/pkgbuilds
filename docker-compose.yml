@@ -1,10 +1,18 @@
-name: yavalinux_pkgbuild
+name: yavalinux
 services:
   build_packages:
+    network_mode: host
     build: .
     deploy:
       mode: global-job
     volumes:
       - ./:/yavalinux
-    entrypoint: sleep infinity
-    # entrypoint: /yavalinux/build.sh
+    entrypoint: /yavalinux/build.sh
+  build_aur_packages:
+    network_mode: host
+    build: .
+    deploy:
+      mode: global-job
+    volumes:
+      - ./:/yavalinux
+    entrypoint: /yavalinux/build_aur.sh
